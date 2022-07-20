@@ -15,4 +15,20 @@
    15  git commit -m "Created Jupyter lab for retirement financial planning"
    16  git push
    17  git status
-   18   history 50 > terminal_history.txt
+   18  history 50 > terminal_history.txt
+   19  jupyter lab
+   20  git status
+   21  git status
+   22  jupyter lab
+   23  upyter lab
+   24  jupyter lab
+   25  git status
+   26  jupyter lab
+   27  git status
+   28  git add *
+   29  git status
+   30  git add .gitignore
+   31  git status
+   32  git commit -m "Final commit"
+   33  git push
+   34  history 50 > terminal_history.txt
