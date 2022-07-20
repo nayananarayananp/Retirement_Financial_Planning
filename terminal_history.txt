@@ -1,0 +1,18 @@
+    1  cd Fintech-Workspace/Challenge/Challenge\5
+    2  conda activate dev
+    3  jupyter lab --ContentsManager.allow_hidden=True
+    4  cd ..
+    5  git clone https://github.com/nayananarayananp/Retirement_Financial_Planning.git
+    6  ls
+    7  cd Retirement_Financial_Planning/
+    8  ls
+    9  ls
+   10  git status
+   11  git add *
+   12  git status
+   13  git add .gitignore
+   14  git status
+   15  git commit -m "Created Jupyter lab for retirement financial planning"
+   16  git push
+   17  git status
+   18   history 50 > terminal_history.txt
